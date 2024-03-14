@@ -1,1 +1,1 @@
-# End-to-End-Cance-Classification-using-MLFlow-DVC
+# End-to-End-Cancer-Classification-using-MLFlow-DVC
